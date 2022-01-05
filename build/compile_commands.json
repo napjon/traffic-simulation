@@ -1,27 +1,32 @@
 [
 {
   "directory": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/build",
-  "command": "/usr/bin/clang++ -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.cpp",
+  "command": "/usr/bin/clang++ -DCERES_FOUND -isystem /usr/local/Cellar/opencv/4.5.1_3/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.cpp",
   "file": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.cpp"
 },
 {
   "directory": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/build",
-  "command": "/usr/bin/clang++ -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.cpp",
+  "command": "/usr/bin/clang++ -DCERES_FOUND -isystem /usr/local/Cellar/opencv/4.5.1_3/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.cpp",
   "file": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.cpp"
 },
 {
   "directory": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/build",
-  "command": "/usr/bin/clang++ -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Street.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.cpp",
+  "command": "/usr/bin/clang++ -DCERES_FOUND -isystem /usr/local/Cellar/opencv/4.5.1_3/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Street.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.cpp",
   "file": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.cpp"
 },
 {
   "directory": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/build",
-  "command": "/usr/bin/clang++ -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp",
+  "command": "/usr/bin/clang++ -DCERES_FOUND -isystem /usr/local/Cellar/opencv/4.5.1_3/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp",
   "file": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.cpp"
 },
 {
   "directory": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/build",
-  "command": "/usr/bin/clang++ -isystem /usr/local/Cellar/opencv/4.5.0_5/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.cpp",
+  "command": "/usr/bin/clang++ -DCERES_FOUND -isystem /usr/local/Cellar/opencv/4.5.1_3/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/TrafficObject.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.cpp",
   "file": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.cpp"
+},
+{
+  "directory": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/build",
+  "command": "/usr/bin/clang++ -DCERES_FOUND -isystem /usr/local/Cellar/opencv/4.5.1_3/include/opencv4  -std=c++17 -pthread -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o -c /Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.cpp",
+  "file": "/Users/Jon/Developer/training/cpp-courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.cpp"
 }
 ]
